@@ -1,0 +1,21 @@
+/* Footer design */
+#footer {
+  background: #b50e00;
+  padding: 30px 0;
+}
+
+#footer a {
+  color: #fff;
+  font-size: 30px;
+  letter-spacing: 20px;
+}
+
+#footer p {
+  color: #fff;
+
+}
+
+#footer a:hover {
+  color: black;
+  transition: color 0.5s ease;
+}

@@ -1,0 +1,19 @@
+feature_one:
+  image_name : beer.png
+  title: Drink around the world
+  description: OMG this is awsome
+
+feature_two:
+  image_name : globe.png
+  title: Walk around the world
+  description: This is SO awsome
+
+feature_three:
+  image_name : dollar.png
+  title: Money around the world
+  description: This is awsome again !
+
+feature_four:
+  image_name : heart.png
+  title: Love around the world
+  description: Love love me do !

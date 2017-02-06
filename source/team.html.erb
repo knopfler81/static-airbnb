@@ -1,0 +1,17 @@
+---
+title: The team
+---
+
+
+<div class="container team text-center">
+  <h1>Look at our awsome team</h1>
+  <br>
+  <ul class="list-inline">
+    <% data.team.each do |key, member|%>
+      <li>
+        <p><%= member.name%> - <%= member.role%></p>
+        <%= image_tag member.picture, class:"img-circle avatar-large"%>
+      </li>
+    <% end %>
+  </ul>
+</div>
