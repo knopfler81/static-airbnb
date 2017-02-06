@@ -6,20 +6,18 @@
   display: flex;
   align-items: center;
   justify-content: center;
-}
-
-.banner-content {
-  color: white;
-}
-
-.banner h1 {
+  h1 {
   font-size: 50px;
   font-weight: bold;
-}
-
-.banner p {
+  }
+  p {
 
   margin-bottom: 50px;
   font-size: 25px;
   font-weight: lighter;
+  }
+}
+
+.banner-content {
+  color: white;
 }
