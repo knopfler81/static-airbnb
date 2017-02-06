@@ -11,7 +11,6 @@
   font-weight: bold;
   }
   p {
-
   margin-bottom: 50px;
   font-size: 25px;
   font-weight: lighter;
@@ -20,4 +19,17 @@
 
 .banner-content {
   color: white;
+}
+
+.banner-flat {
+  height: 40vh;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
 }

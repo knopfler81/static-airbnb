@@ -1,0 +1,53 @@
+seb:
+  owner_name: Sebastien
+  picture: background-paris.jpg
+  owner_picture: seb.jpg
+  name: Seb's home
+  summary: Charming room in Montmartre
+  city: Paris, France
+  wifi: true
+
+romain:
+  owner_name: Romain
+  picture: background-london.jpg
+  owner_picture: romain.jpeg
+  name: Romain's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: false
+
+nelly:
+  owner_name: Nelly
+  picture: background-camden.jpg
+  owner_picture: nelly.jpeg
+  name: Nelly's home
+  summary: Nice flat in Camden Town
+  city: London, UK
+  wifi: true
+
+mike:
+  owner_name: Mike
+  picture: background-glasgow.jpg
+  owner_picture: mike.jpeg
+  name: Mike's home
+  summary: Nice flat in Glasgow
+  city: Glasgow, UK
+  wifi: true
+
+john:
+  owner_name: John
+  picture: background-baux.jpg
+  owner_picture: john.jpg
+  name: John's home
+  summary: Nice flat in Baux de Provence
+  city: Baux de Provence, France
+  wifi: true
+
+janis:
+  owner_name: Janis
+  picture: background-holly.jpg
+  owner_picture: janis.jpg
+  name: Janis's home
+  summary: Nice flat in Hollywood
+  city: Hollywood, US
+  wifi: true

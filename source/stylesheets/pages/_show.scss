@@ -1,0 +1,39 @@
+.header-flat-details{
+  display: flex;
+  padding: 30px;
+}
+
+.header-flat-name {
+  h1 {
+  font-size: 20px;
+  }
+}
+
+.header-flat-owner {
+  margin-right: 30px;
+  img{
+    width: 80px;
+  }
+}
+
+.star-yellow {
+  color: $yellow;
+}
+
+.header-flat form {
+    margin: 20px 0;
+    margin-right: 0;
+    background: #F4F4F4;
+    padding: 15px;
+    border-radius: 3px;
+}
+
+.grey-wrapper {
+  background-color: $gray-lighter;
+}
+
+
+.flat-description
+  h2{
+    font-size: 22px;
+  }
